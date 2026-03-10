@@ -12,7 +12,6 @@
 - JavaScript
 - HTML / CSS
 - Arduino / IoT
-- MQTT
 
 ---
 
