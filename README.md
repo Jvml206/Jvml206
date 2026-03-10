@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou João Victor Machado Lopes
 
 💻 Desenvolvedor Backend  
-🚀 Focado em desenvolvimento de sistemas, APIs e banco de dados.
+🚀 Focado em desenvolvimento de sistemas e banco de dados.
 
 ---
 
