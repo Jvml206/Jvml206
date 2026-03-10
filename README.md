@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Victor Machado Lopes
 
-<!--
-**Jvml206/Jvml206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend  
+🚀 Focado em desenvolvimento de sistemas, APIs e banco de dados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- PHP
+- MySQL
+- JavaScript
+- HTML / CSS
+- Arduino / IoT
+- MQTT
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark)
+
+---
+
+## 🧠 Áreas de Interesse
+
+- Desenvolvimento Backend
+- Banco de Dados
+- IoT
+- Automação
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/joão-victor-machado-lopes/
+- Email: seuemail@email.com
